@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ishido</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">test</string>
+
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Yellow</item>
+
+    </string-array>
+
+    //WHITE, RED, BLUE, GREEN, CYAN, YELLOW
+    <string-array name="symbols">
+        <item>!</item>
+        <item>$</item>
+        <item>#</item>
+        <item>%</item>
+        <item>*</item>
+        <item>-</item>
+    </string-array>
+    <string name="title_activity_game_end">Game End</string>
+</resources>

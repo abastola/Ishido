@@ -1,0 +1,11 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:columnCount="3" android:rowCount="3">
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/topleft" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/topcenter" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/topright" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/midleft" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/midcenter" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/midright" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/bottomleft" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/bottomcenter" android:onClick="respond"/>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/bottomright" android:onClick="respond"/>
+</GridLayout>
